@@ -1,0 +1,1 @@
+This Database Management System project is tailored for a supershop's comprehensive management, handling import, export, and stock tracking. It employs Java with JavaFx library on NetBeans, enabling precise monitoring of item inventory and calculating financial profit or loss for the supershop's operations.
